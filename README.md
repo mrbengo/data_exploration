@@ -1,1 +1,2 @@
-# data_exploration
+# Factors that affect consumer ratings
+This notebook will focus on data exploration, looking for correlations within the data. It's mostly expected that customer service and the quality of food affect ratings of restaurants. However,these factors are included in these datasets. But some of the features of a restaurant still have some influence on the ratings. For a context-based recommender system, finding the relevant features is important for improving the rating prediction.
